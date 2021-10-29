@@ -169,3 +169,60 @@ Received Import Request.
 Start importing Assets/Scenes/green.mat using Guid(8b41118a858cc394cb8811a1a5c72926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58f8846084012cababc0b34a8fba62bf') in 0.017345 seconds 
   Import took 0.019647 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 779.805649 seconds.
+  path: Assets/Scenes/Menu.unity
+  artifactKey: Guid(d3116a129f3d393499b91c8b3141b4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Menu.unity using Guid(d3116a129f3d393499b91c8b3141b4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b58d3b16dfc6a47f7d0c509d1e51044d') in 0.010553 seconds 
+  Import took 0.013089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001704 seconds.
+  path: Assets/Scenes/Menu.unity
+  artifactKey: Guid(d3116a129f3d393499b91c8b3141b4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Menu.unity using Guid(d3116a129f3d393499b91c8b3141b4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b58d3b16dfc6a47f7d0c509d1e51044d') in 0.003708 seconds 
+  Import took 0.006537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.973841 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '062a6451e5f98c15daee7ac0d984ebc3') in 0.004606 seconds 
+  Import took 0.006901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 134.391897 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8639b4319097ad648389db631aa739c6') in 0.003793 seconds 
+  Import took 0.006099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 525.837559 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb31e0e6ac124aa955ee524910354e45') in 0.004087 seconds 
+  Import took 0.006651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 503.699470 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6153f015bfe0f2bd5f18ca12797817a0') in 0.010936 seconds 
+  Import took 0.013639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.011887 seconds.
+  path: Assets/Snowman.unity
+  artifactKey: Guid(2955c4def68221d4eac2309b56ff3d08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Snowman.unity using Guid(2955c4def68221d4eac2309b56ff3d08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b44edd346f502f154f6a95cf6303302') in 0.011669 seconds 
+  Import took 0.013963 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
